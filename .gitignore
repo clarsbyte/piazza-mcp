@@ -1,0 +1,21 @@
+# Credentials and config
+.mcp.json
+
+# Python
+env/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+nul
